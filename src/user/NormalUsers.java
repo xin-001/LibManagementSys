@@ -20,7 +20,7 @@ public class NormalUsers extends User {
 
     //Design the menu of administrator users to realize their functions
     public int menu(){
-        System.out.println("hello "+this.name+"Welcome to the library！");
+        System.out.println("hello "+this.name+" Welcome to the library！");
         System.out.println("1,Research books！");
         System.out.println("2,Borrow books！");
         System.out.println("3,Return books！");

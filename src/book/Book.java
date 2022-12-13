@@ -63,7 +63,7 @@ public class Book {
                 "name='" + name + '\'' +
                 ", author='" + author + '\'' +
                 ", price=" + price +
-                ", type='" + type + '\'' +((isBorrowed==true)? "available":"not available")
+                ", type='" + type + '\'' +(isBorrowed==true? "available":"not available")
                 + '}';
     }
 }
