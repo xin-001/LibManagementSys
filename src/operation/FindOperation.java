@@ -19,18 +19,15 @@ public class FindOperation implements IOperation{
         for (int i=0;i< bookList.getUsedSize();i++)
         {
             Book book=bookList.getBook(i);
-            if (book.getName().equals(name))
-            {
-                System.out.println("Book is available！This book"+((book.isBorrowed())? "available":"Not available"));
+            if(book.getName().equals(name)) {
+                System.out.println("The book is available! Book information:");
                 System.out.println(book);
-                break;
+                return;
             }
-            if (i== bookList.getUsedSize()-1)
-            {
-                System.out.println("Can not find this book！");
-                break;
-            }
-
         }
+        System.out.println("Can not find the book!");
+
+
+
     }
 }
