@@ -8,16 +8,22 @@ The administrator can
 (3) delete old books, 
 (4) check which books are in the library,
 (5) exit the management system.
-<br/>
-<img align="center"src="https://github.com/xin-001/LibManagementSys/blob/master/image/Lib1.png">
-<br/>
+
+<div align="center">
+<img src="https://github.com/xin-001/LibManagementSys/blob/master/image/Lib1.png">
+<div/>
 
 The other is let students borrow books. When we go to the library, we can 
 (1) find the situation of a book, 
 (2) borrow a book, 
 (3) return a book, 
 (4) exit the management system.
+<div align="center">
 <img src="https://github.com/xin-001/LibManagementSys/blob/master/image/Lib2.png">
+<div/>
 
 Folder Structure
+
+<div align="center">
 <img src="https://github.com/xin-001/LibManagementSys/blob/master/image/Lib3.png">
+<div/>
