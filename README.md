@@ -1,7 +1,7 @@
 # LibManagementSys
 
 <p>
-The library manager can have two systems. One is the system for the administrator to manage books. 
+This library manager app supports two kinds of users. One is for the administrator to manage books. 
 The administrator can <br/>
 (1) find a book, <br/>
 (2) add new books, <br/>
@@ -15,8 +15,8 @@ The administrator can <br/>
 <div/>
   
 
-The other is let students borrow books. When we go to the library, we can <br/>
-(1) find the situation of a book,<br/> 
+The other is to let students borrow books. When we go to the library, we can <br/>
+(1) find the status of a book,<br/> 
 (2) borrow a book,<br/> 
 (3) return a book,<br/> 
 (4) exit the management system.<br/>
