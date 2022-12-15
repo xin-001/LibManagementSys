@@ -1,7 +1,7 @@
 # LibManagementSys
 
 <p>
-The library system can have two systems. One is the system for the administrator to manage books. 
+The library manager can have two systems. One is the system for the administrator to manage books. 
 The administrator can <br/>
 (1) find a book, <br/>
 (2) add new books, <br/>
